@@ -12,7 +12,7 @@ categories = ["cryptography::cryptocurrencies"]
 
 [dependencies]
 tree_hash = "0.5.0"
-ethereum_ssz = { git = "https://gitlab.com/pulsechaincom/ethereum_ssz.git", tag = "v0.5.2" }
+ethereum_ssz = { git = "https://github.com/CRossel87a/ethereum_ssz.git" }
 ethereum_serde_utils = "0.5.0"
 serde = "1.0.0"
 serde_derive = "1.0.0"
